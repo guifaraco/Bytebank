@@ -1,2 +1,2 @@
 # Bytebank
-Um exercício para desenvolver as habilidades utilizando o JDBA, MySQL e Java
+Programa que simula as operacoes de um banco utilizando o JDBA, MySQL e Java
